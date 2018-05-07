@@ -1,10 +1,8 @@
 # ER_AWESOME
 
-## Link to the trello kanban board: (https://trello.com/b/z6jREHCj/reimbursement-project)
-
 # Expense Reimbursement System (ERS)
 
-# Teams
+# Team
 
 Shaun, Amanda, Steve Morris, Stephen
 
@@ -57,3 +55,6 @@ Shaun, Amanda, Steve Morris, Stephen
 
 # Database schema
 ![schema](ers-database-schema.png)
+
+## Link to the trello kanban board: (https://trello.com/b/z6jREHCj/reimbursement-project)
+
